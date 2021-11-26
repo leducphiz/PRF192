@@ -1,0 +1,12 @@
+
+devcpp-4.9.9.2_setup.exe (8.89 MB)
+http://www.mediafire.com/?8scqzy2ljpjp11p
+
+Download Dev-Cpp  Setup Releases
+https://sourceforge.net/projects/orwelldevcpp/files/Setup%20Releases/
+
+devcpp-5.1.0.0_32bit_setup.exe (24.4 MB)
+https://sourceforge.net/projects/orwelldevcpp/files/Setup%20Releases/devcpp-5.1.0.0_32bit_setup.exe/download
+
+devcpp-5.1.0.0_64bit_setup.exe (33.5 MB)
+https://sourceforge.net/projects/orwelldevcpp/files/Setup%20Releases/devcpp-5.1.0.0_64bit_setup.exe/download

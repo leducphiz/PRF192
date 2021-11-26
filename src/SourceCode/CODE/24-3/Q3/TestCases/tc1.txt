@@ -1,0 +1,11 @@
+INPUT:
+1
+good morning sir how are you today and to morrow
+OUTPUT:
+GOOD morning SIR how ARE you TODAY and TO morrow
+REMOVE_SPACES:
+YES
+CASE_SENSITIVE:
+YES
+MARK:
+1
